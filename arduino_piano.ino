@@ -1,5 +1,5 @@
 /* 
-Projeto de mini piano
+Projeto de mini piano realizado  utilizando arduíno
 Baseado em https://projecthub.arduino.cc/rahulkhanna/arduino-tutorial-mini-piano-0c7ec5
 Foi realizado a adição de 5 teclas, correspondentes à teclas pretas do piano, correspondentes aos semitons (sustenidos/bemol)
 Foi utilizado um alto falante para reprodução dos sons
