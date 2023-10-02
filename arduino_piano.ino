@@ -6,8 +6,6 @@ Foi utilizado um alto falante para reprodução dos sons
 Uma bateria de 9v é utilizada para fornecer energia
 */
 
-// teste
-
 #define T_C 262
 #define T_CS 277
 #define T_D 294
