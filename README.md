@@ -1,6 +1,4 @@
 # Mini piano arduino
-
-# Descrição do projeto
 Projeto de mini piano usando arduino, cada botão produz uma nota diferente, que deve ser reproduzida no alto-falante
 
 # Materiais utilizados
