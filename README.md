@@ -22,9 +22,8 @@ Caso dois botões estejam pressionados simultaneamente, será reproduzido o som 
 <p> Para mais informações verifique LICENSE </p>
 
 # Créditos
-Baseado em projeto encontrado no arduino projecthub, criado por Rahul Khanna.
-Baseado em projeto criado por Rahul Khanna D, encontrado em https://projecthub.arduino.cc/rahulkhanna.
-Foram adicionadas 5 teclas ao projeto, correspondente às notas sustenidas (teclas pretas do piano).
-Também foi adicionado um transistor, para aumentar o volume máximo do alto falante.
+<p> Baseado em projeto criado por Rahul Khanna D, encontrado em https://projecthub.arduino.cc/rahulkhanna. </p>
+<p> Foram adicionadas 5 teclas ao projeto, correspondente às notas sustenidas (teclas pretas do piano). </p>
+<p> Também foi adicionado um transistor, para aumentar o volume máximo do alto falante. </p>
 
 
